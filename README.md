@@ -1,1 +1,2 @@
-# Trabalho-Multim-dia
+# Trabalho da Disciplina Fundamentos de Multimídia
+
