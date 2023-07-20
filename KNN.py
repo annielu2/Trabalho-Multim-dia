@@ -1,4 +1,3 @@
-import Frequencias
+import Dados
 
-frequencias = Frequencias.get_frequencies()
-print(frequencias)
+audios = Dados.get_audios()
